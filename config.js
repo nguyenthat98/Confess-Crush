@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Cái này là gửi cho ...",
+    titleWeb: "I love du changg",
     introTitle: 'Đỗ Thị Thu Trang',
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Đỗ Thị Thu Trang <3',
     reply: 'Mình rất yêu bạn <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Yêu chang nhiufuuuu nhiufuuuu <333.',
+    messDesc: 'Yêu chang nhìuuuuu nhìuuuu <333.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/dthutrang1510
 }
